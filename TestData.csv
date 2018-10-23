@@ -1,0 +1,18 @@
+﻿Privileged & Confidential ,,,,,,,
+Patent,ProdA Service1,ProdB Service2 ,ProdC Service3,ProdA Service9999999,ProdE Service8888,Expiration Date,Notes
+12345670,YES,NO,NO,NO,YES,11/12/19,yada yada
+12345680,NO,YES,NO,NO,YES,11/12/19,Does lots of stuff
+12345681,YES,NO,YES,YES,YES,06/10/19,Has a lot of things in it
+99999999,NO,NO,NO,NO,YES,08/17/21,Yeah whatever
+22222222,YES,NO,NO,NO,NO,11/01/18,Expires Soon
+33333333,NO,NO,YES,NO,NO,12/31/17,Expired Already!
+11111111,NO,NO,NO,NO,NO,08/03/30,Expires in way future
+11111112,NO,NO,NO,NO,NO,04/01/22,more stuff
+11111113,YES,NO,NO,NO,YES,11/12/22,
+11111114,NO,YES,NO,YES,NO,11/12/22,even more stuff Test Data yada yada Test Data yada yada Test Data yada yada Test Data yada yada Test Data yada yada
+11111115,NO,YES,YES,YES,NO,06/10/19,Yet even more stuff
+11111116,YES,YES,YES,YES,YES,08/17/28,Test Data yada yada 
+11111117,NO,NO,NO,NO,NO,05/05/28,Test Data yada yada
+11111118,NO,YES,YES,YES,YES,12/31/27,Test Data yada yada Test Data yada yada Test Data yada yada
+11111119,NO,NO,YES,NO,NO,08/03/28,Test Data yada yada
+11111120,NO,YES,NO,YES,YES,04/01/27,Test Data yada yada
